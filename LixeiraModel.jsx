@@ -1,0 +1,1 @@
+// LixeiraModel.jsx - exemplo
